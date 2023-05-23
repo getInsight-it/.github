@@ -1,6 +1,6 @@
 # Bem-vindo à **getInsight**!
 
-![Banner getInsight](../assets/banner.jpg)
+![Banner getInsight](https://raw.githubusercontent.com/getinsight-it/.github/main/assets/banner.jpg)
 
 <br />
 
@@ -30,4 +30,3 @@ Hoje contamos com um time de excelência nas mais diversas áreas, sempre entreg
 **Cloud:** Seus projetos já estão nas "nuvens"? Temos uma equipe de especialistas Cloud Native para levarmos seus aplicativos para a nuvem com alto poder de escalabilidade.
 
 **Desenvolvimento Especializado:** Precisa de um time de elite para desenvolver seus aplicativos? Temos um time especializado em desenvolvimento de Assistentes Digitais, Apps Mobiles e o que conseguir imaginar!
-
